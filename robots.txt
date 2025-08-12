@@ -1,0 +1,10 @@
+# Allow all search engines to crawl the entire site
+User-agent: *
+Allow: /
+
+# Prevent indexing of temporary or system files (optional, adjust as needed)
+Disallow: /*.DS_Store$
+Disallow: /*.gitignore$
+
+# Sitemap location (important for faster indexing)
+Sitemap: https://suyog-shrestha.com.np/sitemap.xml
