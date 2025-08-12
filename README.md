@@ -33,7 +33,8 @@ Welcome to my GitHub! I'm a Computer Science student passionate about **Java, Py
 ---
 
 ## 🎸 Beyond Coding  
-- Learning guitar (12 songs and counting!) 🎶  
+- Learning guitar 🎶
+- Leveling up in **Chess** — (https://www.chess.com/member/suyogshrestha_2224) 
 - Anime & manga enthusiast  
 - Always curious and eager to **build cool projects**  
 
